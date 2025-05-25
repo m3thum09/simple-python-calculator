@@ -10,11 +10,20 @@ This is a simple command-line calculator where users can enter two numbers and s
 
 ---
 
+## 🆕 What's New in v2
+
+- Added a **while loop** to allow multiple calculations without restarting the program  
+- Added an **exit option** so users can quit when they want  
+- Improved input validation and error handling
+
+---
+
 ## 🛠️ Technologies Used
 
 - ✅ Python 3.x  
 - ✅ Basic terminal input/output  
 - ✅ Conditional logic (`if`, `elif`, `else`)
+- ✅ Exception handling (`try-except`)
 
 ---
 
